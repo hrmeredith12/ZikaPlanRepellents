@@ -1,8 +1,5 @@
 # This ODE model simulates the transmission of malaria between mosquito and human populations. 
 # 
-# Seasonality impacts 1) carrying capacity for mosquito population (K)
-#                     2) incubation period of malaria (xi_m)
-#                     3) death rate of mosquito (mu_m)
 # Outputs include plots of seasonal dynamics of malaria cases and mosquito population
 
 # by Hannah Meredith
